@@ -1,0 +1,7 @@
+C:\Users\zadac\source\repos\Данченко1\Данченко1\bin\Debug\Данченко1.exe.config
+C:\Users\zadac\source\repos\Данченко1\Данченко1\bin\Debug\Данченко1.exe
+C:\Users\zadac\source\repos\Данченко1\Данченко1\bin\Debug\Данченко1.pdb
+C:\Users\zadac\source\repos\Данченко1\Данченко1\obj\Debug\Данченко1.csproj.AssemblyReference.cache
+C:\Users\zadac\source\repos\Данченко1\Данченко1\obj\Debug\Данченко1.csproj.CoreCompileInputs.cache
+C:\Users\zadac\source\repos\Данченко1\Данченко1\obj\Debug\Данченко1.exe
+C:\Users\zadac\source\repos\Данченко1\Данченко1\obj\Debug\Данченко1.pdb
